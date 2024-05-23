@@ -15,5 +15,5 @@ What is the result we get?
 
 We get this beautiful style of the starry night implemented onto the city image.
 
-<img width="298" alt="Screenshot 2024-05-23 141134" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/d9b032e4-cdcb-438a-9ca4-f9c720ec801b">
+<img width="500" alt="Screenshot 2024-05-23 141134" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/d9b032e4-cdcb-438a-9ca4-f9c720ec801b">
 
