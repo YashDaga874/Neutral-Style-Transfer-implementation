@@ -23,9 +23,9 @@ More examples of this->
 
 
 
-<img width="500" alt="lion3" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/8e695931-6e9b-48a9-8b6b-33e2b13420ee">
-<img width="500" alt="lion2" src="https://github.com/YashDaga874/Neutral-Style-Transfer-<img width="310" alt="Screenshot 2024-05-23 141449" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/1c07caf8-a612-445e-9e66-78008754346e">
-implementation/assets/118438239/0b0b15bd-abd1-46c3-923c-0291cfe9cdc4">
+<img width="500" alt="lion3" src="https://github.com/YashDaga874/Neutral-Style-Transfe<img width="310" alt="Screenshot 2024-05-23 141449" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/0d84902f-9e37-44e8-bae4-b4eee7e3d007">
+r-implementation/assets/118438239/8e695931-6e9b-48a9-8b6b-33e2b13420ee">
 <img width="500" alt="lion5" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/fd807094-c7d3-46e9-969f-24b0cf877e00">
 <img width="500" alt="lion4" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/8307dadf-4519-4293-a05b-4692e9515a3e">
-
+![Uploading Screenshot 2024-05-23 141449.png…]()
+![Screenshot 2024-05-23 141502](https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/c7bd3dd6-0331-4154-8d9c-3c2c70b9ea43)
