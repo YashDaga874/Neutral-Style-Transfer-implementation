@@ -24,7 +24,7 @@ More examples of this with the styles->
 
 
 <img width="300" alt="lion3" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/8e695931-6e9b-48a9-8b6b-33e2b13420ee">
-![mosaic](https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/247d76f6-6922-4560-ae95-d92a5f9c927a)
+<img width="300" alt="lion3" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/533da69b-313d-4d82-b7b8-f37273bd6157">
 <img width="300" alt="Screenshot 2024-05-23 141449" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/0d84902f-9e37-44e8-bae4-b4eee7e3d007">
 <img width="300" alt="lion5" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/fd807094-c7d3-46e9-969f-24b0cf877e00">
 <img width="300" alt="lion4" src="https://github.com/YashDaga874/Neutral-Style-Transfer-implementation/assets/118438239/8307dadf-4519-4293-a05b-4692e9515a3e">
