@@ -1,5 +1,7 @@
 # Neutral-Style-Transfer-implementation
-This is based on reproducing the original research paper titled "A neural algorithm based on Artistic Style" by Leon A. Gatys,Alexander S. Ecker, Matthias Bethge
+This is based on reproducing the original research paper titled "A neural algorithm based on Artistic Style" by Leon A. Gatys,Alexander S. Ecker, Matthias Bethge.
+
+Here's the link to the paper -> https://arxiv.org/abs/1508.06576
 
 ### WHAT IS THIS NST ALGORITHM ABOUT?
 
